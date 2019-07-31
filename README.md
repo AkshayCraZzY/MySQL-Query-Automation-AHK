@@ -12,7 +12,9 @@
   </a>
 </p>
 
-> This is a script/application to automate MySQL commands/queries.
+ <p align="center">
+  This is a script/application to automate MySQL commands/queries.
+ </p>
 
 ## Install
 
