@@ -19,8 +19,9 @@
   ------------------------------
    <img align="center" src="https://i.giphy.com/media/H8FUz536r3SeKn4pC7/source.gif"/>
    <a href="https://github.com/AkshayCraZzY/MySQL-Query-Automation-AHK">
-  ----------------------
+  
    </a>
+   ----------------------
  </p>
 
 
