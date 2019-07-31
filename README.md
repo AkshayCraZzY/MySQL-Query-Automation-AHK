@@ -14,7 +14,13 @@
 
  <p align="center">
   This is a script/application to automate MySQL commands/queries.
+   <img align="center" src="https://i.giphy.com/media/H8FUz536r3SeKn4pC7/source.gif"/>
+   <a href="https://github.com/AkshayCraZzY/MySQL-Query-Automation-AHK">
+   </a>
  </p>
+
+
+
 
 # > Install 🗳
 ----------------------------------
@@ -35,7 +41,7 @@ REFER:
   -----------------------------------
   
   **STEP 3:**
-  Copy the code from [MYSQL_Auto.ahk](https://github.com/AkshayCraZzY/MySQL-Query-Automation-AHK/blob/master/MYSQL_Auto.ahk)
+  Copy the code from [MYSQL_Auto.ahk](https://raw.githubusercontent.com/AkshayCraZzY/MySQL-Query-Automation-AHK/master/MYSQL_Auto.ahk)
 
    ```
     After installing AutoHotkey:
@@ -46,6 +52,8 @@ REFER:
   
  # > Usage 🧾
  ----------------------
+ 
+  **STEP 1 :** For First Time users: Just follow the instructions on window.
   
 # > Author
 
