@@ -16,14 +16,18 @@
   This is a script/application to automate MySQL commands/queries.
  </p>
 
-# Install
+# Install 🗳
+----------------------------------
 
 **STEP 1 :**
-  [Download MySQL Installer 8.0.17](https://dev.mysql.com/get/Downloads/MySQLInstaller/mysql-installer-community-8.0.17.0.msi)```and install it. (You need MYSQl for automating MYSQL, ofcourse!)```
+  [Download MySQL Installer 8.0.17](https://dev.mysql.com/get/Downloads/MySQLInstaller/mysql-installer-community-8.0.17.0.msi)```and install it. (You need MYSQl for automating MYSQL, obviously!)```
   
   *You can use any other version of MYSQL (Recommended 8.0.17)*
   
-  [MYSQL Installation tutorial](https://dev.mysql.com/get/Downloads/MySQLInstaller/mysql-installer-community-8.0.17.0.msi)```and install it. (You need MYSQl for automating MYSQL, ofcourse!)```
+REFER:
+  [MYSQL Installation tutorial](https://youtu.be/cs3H9LU4GJI)
+  
+  --------------------------------
   
   **STEP 2 :**
   [Download AutoHotkey](https://www.autohotkey.com/download/ahk-install.exe)```and install it. (Required for running the script)```
