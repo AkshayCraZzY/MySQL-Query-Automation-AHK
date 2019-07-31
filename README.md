@@ -56,9 +56,33 @@ REFER:
  # > Usage 🧾
  ----------------------
  
-  **STEP 1 :** For First Time users: Just follow the instructions on window.
+  **STEP 1 :** **For First Time users:** Just follow the instructions on window.
+  <p>
+  
+  ------------------------------
+  
+   <img align="center" src="https://i.imgur.com/YAQt5NZ.png"/>
+   <a href="https://github.com/AkshayCraZzY/MySQL-Query-Automation-AHK">
+  
+   </a>
+ </p>
+ 
+ ----------------------------------
+ **STEP 2 :** Then you are good to go for using the application!
+  <p>
+  
+  ------------------------------
+  
+   <img align="center" src="https://i.imgur.com/2JFTVm8.png"/>
+   <a href="https://github.com/AkshayCraZzY/MySQL-Query-Automation-AHK">
+  
+   </a>
+ </p>
+ 
   
 # > Author
+
+------------------------------------
 
 👤 **Akshay Parakh**
 
@@ -67,16 +91,19 @@ REFER:
 
 # > Show your support
 
+------------------------------------
+
 Give a ⭐️ if this project helped you!
 
 <a href="https://www.patreon.com/akshaycrazzy">
   <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
 </a>
 
-## > License 📝
+# > License 📝
+
+------------------------------------
 
 Copyright © 2019 [Akshay Parakh](https://github.com/AkshayCraZzY).<br />
 This project is [MIT](https://github.com/AkshayCraZzY/MySQL-Query-Automation-AHK/blob/master/LICENSE) licensed.
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
