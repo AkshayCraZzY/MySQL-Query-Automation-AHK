@@ -16,7 +16,7 @@
   This is a script/application to automate MySQL commands/queries.
  </p>
 
-# Install 🗳
+# > Install 🗳
 ----------------------------------
 
 **STEP 1 :**
@@ -31,14 +31,30 @@ REFER:
   
   **STEP 2 :**
   [Download AutoHotkey](https://www.autohotkey.com/download/ahk-install.exe)```and install it. (Required for running the script)```
-## Author
+  
+  -----------------------------------
+  
+  **STEP 3:**
+  Copy the code from [MYSQL_Auto.ahk](https://github.com/AkshayCraZzY/MySQL-Query-Automation-AHK/blob/master/MYSQL_Auto.ahk)
+
+   ```
+    After installing AutoHotkey:
+    1) Create a empty AHK script by right clicking anywhere on Desktop/Any Folder 
+       after that select New > AutoHotkey Script
+    2) Copy the code and paste it into the new script and save it as MYSQL_Auto.ahk
+ ```
+  
+ # > Usage 🧾
+ ----------------------
+  
+# > Author
 
 👤 **Akshay Parakh**
 
 * Twitter: [@Akshayparakh98](https://twitter.com/Akshayparakh98)
 * Github: [@AkshayCraZzY](https://github.com/AkshayCraZzY)
 
-## Show your support
+# > Show your support
 
 Give a ⭐️ if this project helped you!
 
@@ -46,7 +62,7 @@ Give a ⭐️ if this project helped you!
   <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
 </a>
 
-## 📝 License
+## > License 📝
 
 Copyright © 2019 [Akshay Parakh](https://github.com/AkshayCraZzY).<br />
 This project is [MIT](https://github.com/AkshayCraZzY/MySQL-Query-Automation-AHK/blob/master/LICENSE) licensed.
