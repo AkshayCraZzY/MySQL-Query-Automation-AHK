@@ -4,7 +4,7 @@
  <a href="https://github.com/AkshayCraZzY/MySQL-Query-Automation-AHK/blob/master/README.md">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" target="_blank" />
   </a>
-  <a href="https://github.com/AkshayCraZzY/MySQL-Query-Automation-AHK/blob/master/LICENSE.md">
+  <a href="https://github.com/AkshayCraZzY/MySQL-Query-Automation-AHK/blob/master/LICENSE">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" target="_blank" />
   </a>
   <a href="https://twitter.com/Akshayparakh98">
