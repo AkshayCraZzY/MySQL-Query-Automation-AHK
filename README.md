@@ -1,7 +1,10 @@
 <h1 align="center">Welcome to MySQL-Query-Automation-AHK 👋</h1>
-<p>
+<p align="center">
   <img alt="Version" src="https://img.shields.io/badge/version-0.1-blue.svg?cacheSeconds=2592000" />
-  <a href="https://github.com/AkshayCraZzY/MySQL-Query-Automation-AHK/blob/master/LICENSE">
+ <a href="https://github.com/AkshayCraZzY/MySQL-Query-Automation-AHK/blob/master/README.md">
+    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" target="_blank" />
+  </a>
+  <a href="https://github.com/AkshayCraZzY/MySQL-Query-Automation-AHK/blob/master/LICENSE.md">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" target="_blank" />
   </a>
   <a href="https://twitter.com/Akshayparakh98">
