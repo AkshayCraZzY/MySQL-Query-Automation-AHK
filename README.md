@@ -17,7 +17,7 @@
   
   ------------------------------
   
-   <img align="center" src="https://i.giphy.com/media/H8FUz536r3SeKn4pC7/source.gif"/>
+   <img align="center" src="https://raw.githubusercontent.com/AkshayCraZzY/MySQL-Query-Automation-AHK/master/Media/mysql_auto.gif"/>
    <a href="https://github.com/AkshayCraZzY/MySQL-Query-Automation-AHK">
   
    </a>
